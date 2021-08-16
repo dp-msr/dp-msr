@@ -1,18 +1,17 @@
 👋 Hi, I’m [@DeeprajPandey](https://github.com/DeeprajPandey) and this is my work account for my projects as an intern at Microsoft Research India.
 
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/DeeprajPandey)
+I like 🏎 F1, 🛼 rollerblades, and ⌨️ keybs.
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/DeeprajPandey)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeeprajPandey)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DeeprajPandey)
+ -->
 
-
-<!---
 <table width="100%"> 
   <tr>
   <td width="50%">
-      
-    &nbsp; <br>
-
+    
+   &nbsp; <br> ![](monaco_640.gif)
+    
   </td>
   <td width="50%">
 
@@ -23,7 +22,7 @@
   </p>
   </td>
 </table>
---->
+
 [//]: <> (new comment)
 
 
