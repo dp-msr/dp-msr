@@ -1,4 +1,4 @@
-👋 Hi, I’m [@DeeprajPandey](https://github.com/DeeprajPandey) and this is my work account for my projects as an intern at Microsoft Research India.
+👋 Hi, I’m [@DeeprajPandey](https://github.com/DeeprajPandey) and this is my work account for my time as an intern at Microsoft Research India.
 
 I like 🏎 F1, 🛼 rollerblades, and ⌨️ keybs.
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/DeeprajPandey)
